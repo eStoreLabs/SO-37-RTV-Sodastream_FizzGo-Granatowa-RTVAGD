@@ -788,6 +788,9 @@
     min-width: 225px;
   }
 }
+#es-rc #es-rc-content .es-footer__image-logo {
+  max-width: 218px;
+}
 @media screen and (min-width: 900px) {
   #es-rc #es-rc-content .es-benefits__content-wrapper {
     padding-top: 74px;
@@ -886,9 +889,6 @@
   }
   #es-rc #es-rc-content .es-footer__image {
     margin-bottom: 40px;
-  }
-  #es-rc #es-rc-content .es-footer__image {
-    width: 218px;
   }
   #es-rc #es-rc-content .es-footer__subtitle {
     margin-bottom: 50px;
